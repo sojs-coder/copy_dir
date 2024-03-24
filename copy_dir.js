@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const source = process.argv[2];
 const dest = process.argv[3];
 
