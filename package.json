@@ -1,0 +1,19 @@
+{
+  "name": "copy_dir",
+  "version": "1.0.0",
+  "description": "Copies one directory to another",
+  "main": "copy_dir.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sojs-coder/copy_dir.git"
+  },
+  "author": "SoJS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sojs-coder/copy_dir/issues"
+  },
+  "homepage": "https://github.com/sojs-coder/copy_dir#readme"
+}
